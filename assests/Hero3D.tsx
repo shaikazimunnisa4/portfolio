@@ -149,7 +149,7 @@ const Hero3D: React.FC = () => {
               href="#projects"
               className="px-8 py-3 border-2 border-purple-400 rounded-full text-purple-400 font-semibold hover:bg-purple-400 hover:text-white transition-all duration-300"
             >
-              View Work
+              My Project
             </a>
           </motion.div>
         </div>
